@@ -12,3 +12,7 @@ void sendFile(tcp::socket& socket, const std::string& fileName) {
     }
 }
 
+int main(){
+	return 0;
+}
+
