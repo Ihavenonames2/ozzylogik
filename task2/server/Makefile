@@ -1,10 +1,10 @@
-TARGET = a
+TARGET = server
 
 SRC = main.cpp
 
 CXX = g++
 
-CXXFLAGS = -std=c++20 -Wall
+CXXFLAGS = -std=c++11
 
 BOOST_ROOT ?= /Users/admin/boost/boost_1_82_0
 
