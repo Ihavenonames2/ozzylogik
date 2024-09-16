@@ -1,7 +1,9 @@
 # Test task for interview
 ## Intro
 Application is demonstrating my skills with: C++, Boost, Qt, SQL
+
 As a build system i used make, so it can be used on any Linux/UNIX device, use the latest make version.
+
 P.S. Task1 using Qt, Task2 using Boost.
 
 ## Getting started
